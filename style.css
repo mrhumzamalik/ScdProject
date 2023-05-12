@@ -1,0 +1,37 @@
+body
+{
+    margin: 10px;
+    padding: 10px;
+    background-image: url(/img/back.jpg);
+
+}
+#btnlogin
+{
+    text-decoration: none;
+    border-radius: 17px;
+    padding: 6px;
+    WIDTH: 88px;
+    border: solid;
+    color: #000;
+    border-radius: 10px;
+    background-color: aqua;
+}
+#btnlogin:hover
+{
+    border: solid;
+    border-radius: 17px;
+    padding: 6px;
+    WIDTH: 88px;
+    background: rgb(0, 136, 255);
+    color: aliceblue;
+}
+div{
+    border-radius: 74px;
+    margin-left: 300px;
+    margin-right: 250px;
+}
+input#tf1
+{
+    border-radius: 8px;
+    padding: 3px;
+}
